@@ -12,6 +12,7 @@ astropy>=6.1,<9.0
 skyfield>=1.54,<2.0
 jplephem>=2.20,<3.0
 geopandas>=1.0,<2.0
+starplot==0.20.4
 shapely>=2.0,<3.0
 pyproj>=3.7,<4.0
 Cartopy>=0.24,<1.0
