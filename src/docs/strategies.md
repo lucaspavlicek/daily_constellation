@@ -1,0 +1,5 @@
+Well I still have a lot to figure out about strategy. I don't believe there is any sequence guesses that is the optimal strategy for every single day. An ideal strategy must adapt its guesses based on the information coming in from the plots. In any case, no complex strategy is needed to just play the game. Guessing constellations we like for no particular reason will work just fine.
+
+It may be the case that guessing distant constellations can help narrow down the possibilities faster as a *general* rule of thumb. For example, Ursa Minor at the North pole and Octans at the South pole. However, I am not sure about this, and it may be the case that this strategy is no better than guessing at random.
+
+Maybe some strategy tips will reveal themselves with time, for now I just play the game and get a bit better at navigating the celestial sphere along the way.

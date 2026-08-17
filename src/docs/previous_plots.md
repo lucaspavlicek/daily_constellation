@@ -1,0 +1,3 @@
+The left and right arrow buttons let us scroll through previous plots. At the moment, we can only see up to five turns back. That number may change.
+
+The down arrow button let's us see the opposite of the zenith plot. It is equivalent to the zenith plot of an observer on the opposite side of the world at the same time. It will take a few seconds to load when you navigate to these plots for the first time. Then it will be saved to a cache so it can accessed faster next time.

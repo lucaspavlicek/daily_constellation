@@ -1,0 +1,5 @@
+streamlit
+pytz
+astropy
+starplot
+python-dotenv
