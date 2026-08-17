@@ -2,10 +2,8 @@ import streamlit as st
 from datetime import datetime, UTC
 import hashlib
 from pathlib import Path
-import os
 import random
 import math
-import requests
 
 import matplotlib.pyplot as plt
 from starplot import Constellation
