@@ -157,7 +157,7 @@ if st.session_state.game_won:
 
     col1, col2 = st.columns(2)
 
-    url = f"https://noirlab.edu/public/media/archives/lineart/original/{target_name.lower().replace(" ", "")}-outline.png"
+    url = f"https://noirlab.edu/public/media/archives/lineart/original/{target_name.lower().replace(" ", "-")}-outline.png"
     with col1:
         st.image(url, width="stretch")
 
@@ -165,7 +165,7 @@ if st.session_state.game_won:
         st.subheader(target_name, anchor=False)
         st.markdown(f"**English Name:** {english_names[st.session_state.target_constellation]}")
         st.markdown(
-            f"[More about {target_name}](https://noirlab.edu/public/education/constellations/{target_name.lower().replace(" ", "")}/)"
+            f"[More about {target_name}](https://noirlab.edu/public/education/constellations/{target_name.lower().replace(" ", "-")}/)"
         )
         st.markdown(f"**Puzzle Date:** {datetime.now(UTC).strftime("%B %d, %Y")}")
         st.caption("Image credit: NOIRLab")
